@@ -42,4 +42,9 @@ It is an Online Cinema Ticket Reservation built with Ioinic V4.
 ![](Test/Test/enable_next_disable_seats_after_select_one_seat.JPG) 
 
 
+
+![](Test/Test/Payment_page_ticket_price_pay_options.JPG)
+
+
+
 ![](Test/Test/My_ticket.JPG)
